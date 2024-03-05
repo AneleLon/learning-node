@@ -4,5 +4,8 @@
   "description": "Telegram Bot",
   "main": "index.js",
   "author": "you",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
 }
