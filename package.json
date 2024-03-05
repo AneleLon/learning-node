@@ -1,0 +1,8 @@
+{
+  "name": "learning-node",
+  "version": "0.0.1",
+  "description": "Telegram Bot",
+  "main": "index.js",
+  "author": "you",
+  "license": "ISC"
+}
